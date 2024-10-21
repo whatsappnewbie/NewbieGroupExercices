@@ -1,6 +1,6 @@
 Exercicio 4#
-crie uma fução que receba 1 argumento ou 2 argumentos
-ou mais em uma unica função
+crie uma fução que receba 2 argumentos ou mais
+e usar para imprimir uma so funcao
 
 por exemplo:
 def main():
